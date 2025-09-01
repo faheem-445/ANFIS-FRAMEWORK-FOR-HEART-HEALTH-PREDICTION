@@ -44,8 +44,8 @@ This project features a dual-stage AI framework for comprehensive heart health a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Severus-193/DUAL_STAGE_ANFIS_HEART_HEALTH_ASSESSMENT.git
-   cd DUAL_STAGE_ANFIS_HEART_HEALTH_ASSESSMENT
+   git clone https://github.com/faheem-445/ANFIS-FRAMEWORK-FOR-HEART-HEALTH-PREDICTION.git
+   cd ANFIS-FRAMEWORK-FOR-HEART-HEALTH-PREDICTION
    ```
    
 
